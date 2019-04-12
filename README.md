@@ -14,7 +14,7 @@
 
 
 ![avatar](./video/全部客户页.png)
-![avatar](./video/客户生日页面.png)
+![avatar](./video/客户生日.png)
 
 ## Build Setup
 
